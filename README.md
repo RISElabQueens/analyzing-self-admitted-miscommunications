@@ -12,3 +12,15 @@ Authors: Kazi Amit Hasan, Vu Thanh Loc Mai, Cynthia Wang, Yuan Tian, Steven H. H
 3. data_mining: contains the code for the data mining
 4. RQs: contains the code for the RQs.
 
+
+### Cite 
+'''
+@inproceedings{hasan2024first,
+  title={A First Look at Self-Admitted Miscommunications in GitHub Issues},
+  author={Hasan, Kazi Amit and Loc Mai, Vu Thanh and Wang, Cynthia and Tian, Yuan and Ding, Steven HH},
+  booktitle={Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering Workshops},
+  pages={118--127},
+  year={2024}
+}
+'''
+
