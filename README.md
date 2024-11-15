@@ -14,7 +14,10 @@ Authors: Kazi Amit Hasan, Vu Thanh Loc Mai, Cynthia Wang, Yuan Tian, Steven H. H
 
 
 ### Cite 
-'''
+If you find this research useful, please consider citing our paper as follows:
+
+```
+
 @inproceedings{hasan2024first,
   title={A First Look at Self-Admitted Miscommunications in GitHub Issues},
   author={Hasan, Kazi Amit and Loc Mai, Vu Thanh and Wang, Cynthia and Tian, Yuan and Ding, Steven HH},
@@ -22,5 +25,6 @@ Authors: Kazi Amit Hasan, Vu Thanh Loc Mai, Cynthia Wang, Yuan Tian, Steven H. H
   pages={118--127},
   year={2024}
 }
-'''
+
+```
 
